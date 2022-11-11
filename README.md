@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Advance SQL
 - 💞️ I’m looking to collaborate on Product based company
-- 📫 How to reach me ...
+- 📫 How to reach me mail: smashfakuddin.anthro.cou@gmail.com
 
 <!---
 smashfakuddin/smashfakuddin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
