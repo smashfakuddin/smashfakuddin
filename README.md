@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @smashfakuddin
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Advance SQL
-- 💞️ I’m looking to collaborate on Product based company
-- 📫 How to reach me mail: smashfakuddin.anthro.cou@gmail.com
+# 👋 Hi, I'm @smashfakuddin  
 
-<!---
-smashfakuddin/smashfakuddin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👀 About Me  
+I'm passionate about **Web Development** . I love building scalable applications and working with databases to extract valuable insights.  
+
+### 🚀 Skills & Technologies  
+- **Web Development:** Next.js, React.js, Tailwind CSS, 
+- **Database & Backend:** MongoDB,  Mongoose  
+- **Other Tools:** Remix, Shopify App Development, API Integration  
+
+### 🌱 Currently Learning  
+- Advanced **Next.js** for Full-Stack Development  
+- Optimizing databases and **Schema Design**  
+- Building **high-performance web applications**  
+
+### 💡 Looking to Collaborate  
+I'm open to collaborating on **product-based applications**, SaaS projects, and data-driven web apps.  
+
+### 📫 How to Reach Me  
+📩 Email: **smashfakuddin.anthro.cou@gmail.com**  
+🌐 Portfolio: [Coming Soon]  
+
+---
+
+Let me know if you'd like any further modifications! 🚀  
