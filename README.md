@@ -4,7 +4,7 @@
 I'm passionate about **Web Development** . I love building scalable applications and working with databases to extract valuable insights.  
 
 ### 🚀 Skills & Technologies  
-- **Web Development:** Next.js, Remix.run, React.js, Tailwind CSS, 
+- **Web Development:** JavaScript,ES6+, Next.js, Remix.run, React.js, Tailwind CSS, 
 - **Database & Backend:** MongoDB,  Mongoose  
 - **Other Tools:** Remix, Shopify App Development, API Integration  
 
@@ -18,7 +18,7 @@ I'm open to collaborating on **product-based applications**, SaaS projects, and 
 
 ### 📫 How to Reach Me  
 📩 Email: **smashfakuddin.anthro.cou@gmail.com**  
-🌐 Portfolio: [Coming Soon]  
+
 
 ---
 
