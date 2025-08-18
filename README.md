@@ -4,7 +4,7 @@
 I'm passionate about **Web Development** . I love building scalable applications and working with databases to extract valuable insights.  
 
 ### 🚀 Skills & Technologies  
-- **Web Development:** JavaScript,ES6+, Next.js, Remix.run, React.js, Tailwind CSS, 
+- **Web Development:** JavaScript,ES6+, Next.js, Remix.run, React.js, Tailwind CSS, Axios, TanStack Query, React Hook Form, Framer Motion
 - **Database & Backend:** MongoDB,  Mongoose  
 - **Other Tools:** Remix, Shopify App Development, API Integration  
 
