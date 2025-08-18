@@ -5,7 +5,7 @@ I'm passionate about **Web Development** . I love building scalable applications
 
 ### 🚀 Skills & Technologies  
 - **Web Development:** JavaScript, ES6+, Next.js, Remix.run, React.js, Tailwind CSS, Axios, TanStack Query, React Hook Form, Framer Motion
-- **State Management:** Redux, Context API, IMMER, Reducer
+- **State Management:** Redux Toolkit, Context API, IMMER, Reducer
 - **Database & Backend:** MongoDB,  Mongoose  
 - **Other Tools:** Remix, Shopify App Development, API Integration  
 
