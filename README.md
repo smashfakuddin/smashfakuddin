@@ -11,7 +11,7 @@ Shopify App Development – creating custom apps with Remix, Polaris, App Bridge
 Database Optimization & Schema Design – ensuring efficient queries and scalable storage
 
 
-##💡 My Vision:
+## 💡 My Vision
 To become a highly skilled full-stack engineer capable of solving complex software problems, building robust apps, and contributing to large-scale systems.
 
 
