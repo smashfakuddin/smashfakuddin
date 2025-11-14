@@ -1,5 +1,19 @@
-# 💫 About Me:
-Currently Learning<br>    Advanced Next.js for Full-Stack Development<br>    Optimizing databases and Schema Design<br>    Building high-performance web applications
+💫 About Me
+
+Hi! I’m S M Ashfak Uddin, a passionate Front-end Developer. I’m on a mission to master DSA, system design, and high-performance web applications.
+
+I enjoy solving complex problems, building scalable solutions, and creating intuitive user experiences. Currently, I’m diving deep into:
+
+Advanced Next.js & React – building dynamic, fast, and SEO-friendly web applications
+
+Shopify App Development – creating custom apps with Remix, Polaris, App Bridge, and GraphQL
+
+Database Optimization & Schema Design – ensuring efficient queries and scalable storage
+
+Competitive Programming & DSA – solving challenging problems to reach Codeforces Grandmaster level
+
+💡 My Vision:
+To become a highly skilled full-stack engineer capable of solving complex software problems, building robust apps, and contributing to large-scale systems.
 
 
 ## 🌐 Socials:
