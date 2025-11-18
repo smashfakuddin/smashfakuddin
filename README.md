@@ -42,7 +42,7 @@ I’m passionate about building **high-performance web applications** and **scal
 ## 🚀 Notable Projects
 
 
-**WinnSEO (Shopify SEO App)**  
+### 1. **WinnSEO (Shopify SEO App)**  
 Contributed to a live Shopify app on the Shopify App Store → [WinnSEO](https://apps.shopify.com/winnseo)  
 - Improved SEO features, metafield handling, and dashboard UI  
 - Worked with Polaris, Shopify Admin GraphQL API, and App Bridge  
