@@ -41,12 +41,13 @@ I’m passionate about building **high-performance web applications** and **scal
 
 ## 🚀 Notable Projects
 
-### 1. **Shopify SEO & Product Management App**  
-Built a **custom Shopify app** with Remix + Polaris + GraphQL to manage:  
-- Product SEO, meta fields, and social previews  
-- Analytics and reports  
-- Billing & subscriptions integration  
-- Responsive and interactive UI
+
+**WinnSEO (Shopify SEO App)**  
+Contributed to a live Shopify app on the Shopify App Store → [WinnSEO](https://apps.shopify.com/winnseo)  
+- Improved SEO features, metafield handling, and dashboard UI  
+- Worked with Polaris, Shopify Admin GraphQL API, and App Bridge  
+- Enhanced app performance, especially for product SEO and bulk edits  
+- Contributed code, bug fixes, and feature enhancements to the production app  
 
 ### 2. **Course Management System**  
 A **full-stack course platform** built with Next.js, Tailwind, and MongoDB:  
