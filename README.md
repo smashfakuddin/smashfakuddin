@@ -1,6 +1,6 @@
 # Hi, I'm S M Ashfak Uddin 👋
 
-### Front-End & Full-Stack Developer | Shopify App Developer | Next.js / React Enthusiast
+### Front-End && Shopify App Developer | Next.js / React Enthusiast
 
 I’m passionate about building **high-performance web applications** and **scalable Shopify apps**. I love solving complex problems, optimizing web performance, and delivering intuitive user experiences.
 
@@ -11,14 +11,12 @@ I’m passionate about building **high-performance web applications** and **scal
 - **Advanced Web Development:** Next.js, React, Tailwind CSS, TypeScript, Redux, Remix  
 - **Shopify App Development:** Polaris, App Bridge, Storefront & Admin APIs, GraphQL  
 - **Database & Backend:** MongoDB, Node.js, Express.js, API design & optimization  
-- **DSA & Problem Solving:** Strong C++ & Python foundation for algorithmic challenges
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smashfakuddin)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smashfakuddin.anthro.cou@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smashfakuddin) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smashfakuddin.anthro.cou@gmail.com)  
 
 ---
 
