@@ -18,8 +18,6 @@ I’m passionate about building **high-performance web applications** and **scal
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smashfakuddin) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/ashuddin/)
-[![Codeforces Rating](https://img.shields.io/badge/dynamic/json?label=Codeforces&query=%24.result.0.rating&url=https://codeforces.com/api/user.info?handles=your_handle&logo=codeforces)](https://codeforces.com/profile/smashfak)
-
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smashfakuddin.anthro.cou@gmail.com)  
 
 ---
