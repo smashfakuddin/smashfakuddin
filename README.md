@@ -16,7 +16,9 @@ I’m passionate about building **high-performance web applications** and **scal
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smashfakuddin) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smashfakuddin.anthro.cou@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smashfakuddin) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/ashuddin/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smashfakuddin.anthro.cou@gmail.com)  
 
 ---
 
