@@ -1,6 +1,8 @@
 # Hi, I'm S M Ashfak Uddin 👋
 
 ### Front-End && Shopify App Developer | Next.js / React Enthusiast
+![Profile Views](https://visitorbadge.io/api/visitors?path=smashfakuddin&label=Visitors&countColor=%23007EC6)
+
 
 I’m passionate about building **high-performance web applications** and **scalable Shopify apps**. I love solving complex problems, optimizing web performance, and delivering intuitive user experiences.
 
