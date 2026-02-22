@@ -59,11 +59,6 @@ A **full-stack course platform** built with Next.js, Tailwind, and MongoDB:
 - Discussion forums and file uploads  
 - Secure authentication & role-based access
 
-### 3. **High-Performance Web Dashboards**  
-- Real-time charts, data filtering, sorting  
-- Dark mode, responsive design  
-- Optimized for fast page loads and SEO
-
 ---
 
 ## 📊 GitHub Stats
